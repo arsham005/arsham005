@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently leaning machine learning and I am junior data scientist
+I am currently learning machine learning and I am junior data scientist
 
 
 ## 🌐 Socials:
